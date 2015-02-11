@@ -1,4 +1,4 @@
-package test;
+package leetcode;
 
 public class maxProfit {
 	public static void main(String args[]){
